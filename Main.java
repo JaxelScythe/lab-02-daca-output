@@ -1,8 +1,7 @@
-// PARTNER NAME:
-// PARTNER NAME:
-// CS111 SECTION #:
-// DATE: 
-
+/**
+ * Program description.
+ * @author Your Name
+ */
 public class Main
 {
 	public static void main(String[] args)
